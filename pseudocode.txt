@@ -1,0 +1,15 @@
+1. Create a blueprint for the project
+2. Create multiple empty .py files to run in main.py
+3. Follow this folder structure when running main.py
+    quiz_app/
+    ├── main.py
+    ├── creator/
+    │   ├── creator_app.py
+    │   └── question_saver.py
+    ├── taker/
+    │   ├── taker_app.py
+    │   └── question_loader.py
+    └── quiz_questions.txt
+4. Create the pseudocode for each file
+5. Test all if working
+6. Polish
